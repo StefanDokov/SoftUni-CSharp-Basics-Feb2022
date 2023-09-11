@@ -1,0 +1,15 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\bin\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\refint\HelloSoftUni.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\HelloSoftUni.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\HelloSoftUni\obj\Debug\net6.0\ref\HelloSoftUni.dll

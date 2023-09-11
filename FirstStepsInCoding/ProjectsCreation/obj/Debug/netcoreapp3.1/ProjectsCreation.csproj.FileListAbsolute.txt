@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache

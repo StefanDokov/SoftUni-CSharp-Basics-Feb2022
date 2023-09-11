@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\bin\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\SuppliesforSchool\obj\Debug\netcoreapp3.1\SuppliesforSchool.genruntimeconfig.cache

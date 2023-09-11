@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\netcoreapp3.1\BasketballEquipment.genruntimeconfig.cache

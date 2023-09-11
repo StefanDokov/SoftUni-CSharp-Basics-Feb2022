@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\bin\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\InchestoCentimeters\obj\Debug\netcoreapp3.1\InchestoCentimeters.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.genruntimeconfig.cache

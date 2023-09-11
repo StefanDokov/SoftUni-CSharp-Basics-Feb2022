@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\bin\Debug\netcoreapp3.1\GreetingbyName.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\GreetingbyName\obj\Debug\netcoreapp3.1\GreetingbyName.genruntimeconfig.cache

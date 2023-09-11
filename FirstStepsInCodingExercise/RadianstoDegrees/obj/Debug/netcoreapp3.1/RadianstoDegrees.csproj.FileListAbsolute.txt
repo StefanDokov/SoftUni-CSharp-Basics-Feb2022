@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\bin\Debug\netcoreapp3.1\RadianstoDegrees.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCodingExercise\RadianstoDegrees\obj\Debug\netcoreapp3.1\RadianstoDegrees.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\FirstStepsInCoding\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.genruntimeconfig.cache
