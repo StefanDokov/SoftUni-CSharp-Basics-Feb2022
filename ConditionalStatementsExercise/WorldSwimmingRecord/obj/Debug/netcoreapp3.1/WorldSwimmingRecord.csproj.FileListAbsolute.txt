@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.genruntimeconfig.cache

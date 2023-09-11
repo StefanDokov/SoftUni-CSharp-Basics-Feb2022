@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.genruntimeconfig.cache

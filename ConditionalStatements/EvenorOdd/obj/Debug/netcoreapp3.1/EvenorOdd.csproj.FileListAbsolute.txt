@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatements\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.genruntimeconfig.cache

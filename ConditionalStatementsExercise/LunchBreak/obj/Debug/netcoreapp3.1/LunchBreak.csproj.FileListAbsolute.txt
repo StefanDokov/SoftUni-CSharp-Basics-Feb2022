@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\bin\Debug\netcoreapp3.1\LunchBreak.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\LunchBreak\obj\Debug\netcoreapp3.1\LunchBreak.genruntimeconfig.cache

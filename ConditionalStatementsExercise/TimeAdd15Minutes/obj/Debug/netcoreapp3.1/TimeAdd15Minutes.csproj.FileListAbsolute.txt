@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\bin\Debug\netcoreapp3.1\TimeAdd15Minutes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\TimeAdd15Minutes\obj\Debug\netcoreapp3.1\TimeAdd15Minutes.genruntimeconfig.cache

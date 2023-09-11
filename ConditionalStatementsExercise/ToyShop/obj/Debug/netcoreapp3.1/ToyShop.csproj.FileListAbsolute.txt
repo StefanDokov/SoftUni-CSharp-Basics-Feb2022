@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsExercise\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache
