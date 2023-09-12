@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\bin\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.AssemblyReference.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvanced\DayofWeek\obj\Debug\netcoreapp3.1\DayofWeek.genruntimeconfig.cache
