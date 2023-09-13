@@ -1,0 +1,13 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.runtimeconfig.dev.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\bin\Debug\netcoreapp3.1\OnTimefortheExam.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ConditionalStatementsAdvancedExercise\OnTimefortheExam\obj\Debug\netcoreapp3.1\OnTimefortheExam.genruntimeconfig.cache
