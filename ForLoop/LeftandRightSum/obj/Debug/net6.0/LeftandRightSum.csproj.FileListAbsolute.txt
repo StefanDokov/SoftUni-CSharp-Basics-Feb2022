@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\bin\Debug\net6.0\LeftandRightSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\refint\LeftandRightSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\LeftandRightSum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\LeftandRightSum\obj\Debug\net6.0\ref\LeftandRightSum.dll

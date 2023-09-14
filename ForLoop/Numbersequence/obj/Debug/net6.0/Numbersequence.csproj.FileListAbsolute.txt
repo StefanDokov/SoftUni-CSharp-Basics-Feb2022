@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\bin\Debug\net6.0\Numbersequence.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\bin\Debug\net6.0\Numbersequence.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\bin\Debug\net6.0\Numbersequence.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\bin\Debug\net6.0\Numbersequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\bin\Debug\net6.0\Numbersequence.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\refint\Numbersequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\Numbersequence.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\Numbersequence\obj\Debug\net6.0\ref\Numbersequence.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\bin\Debug\net6.0\VowelsSum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\bin\Debug\net6.0\VowelsSum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\bin\Debug\net6.0\VowelsSum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\bin\Debug\net6.0\VowelsSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\bin\Debug\net6.0\VowelsSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\refint\VowelsSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\VowelsSum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoop\VowelsSum\obj\Debug\net6.0\ref\VowelsSum.dll
