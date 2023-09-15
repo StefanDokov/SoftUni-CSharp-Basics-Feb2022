@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\bin\Debug\net6.0\ReverseaString.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\bin\Debug\net6.0\ReverseaString.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\bin\Debug\net6.0\ReverseaString.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\bin\Debug\net6.0\ReverseaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\bin\Debug\net6.0\ReverseaString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\refint\ReverseaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ReverseaString.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueues\ReverseaString\obj\Debug\net6.0\ref\ReverseaString.dll
