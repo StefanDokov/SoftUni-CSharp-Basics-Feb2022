@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\bin\Debug\net6.0\NumbersEndingin7.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\bin\Debug\net6.0\NumbersEndingin7.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\bin\Debug\net6.0\NumbersEndingin7.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\bin\Debug\net6.0\NumbersEndingin7.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\bin\Debug\net6.0\NumbersEndingin7.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\refint\NumbersEndingin7.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\NumbersEndingin7.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\NumbersEndingin7\obj\Debug\net6.0\ref\NumbersEndingin7.dll

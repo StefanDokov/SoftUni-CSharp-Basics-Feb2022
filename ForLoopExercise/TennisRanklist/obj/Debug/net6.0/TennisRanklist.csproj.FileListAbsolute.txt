@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\refint\TennisRanklist.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\ref\TennisRanklist.dll
