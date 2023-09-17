@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\bin\Debug\net6.0\Sequence2k1.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\bin\Debug\net6.0\Sequence2k1.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\bin\Debug\net6.0\Sequence2k1.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\bin\Debug\net6.0\Sequence2k1.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\bin\Debug\net6.0\Sequence2k1.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\refint\Sequence2k1.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\Sequence2k1.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\Sequence2k1\obj\Debug\net6.0\ref\Sequence2k1.dll

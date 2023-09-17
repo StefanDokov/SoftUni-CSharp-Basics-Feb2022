@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\bin\Debug\net6.0\ReadText.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\bin\Debug\net6.0\ReadText.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\bin\Debug\net6.0\ReadText.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\bin\Debug\net6.0\ReadText.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\bin\Debug\net6.0\ReadText.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\refint\ReadText.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ReadText.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoop\ReadText\obj\Debug\net6.0\ref\ReadText.dll
