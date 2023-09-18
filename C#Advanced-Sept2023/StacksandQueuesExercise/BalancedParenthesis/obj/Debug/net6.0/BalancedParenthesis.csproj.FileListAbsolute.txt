@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\bin\Debug\net6.0\BalancedParenthesis.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\refint\BalancedParenthesis.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\BalancedParenthesis.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\BalancedParenthesis\obj\Debug\net6.0\ref\BalancedParenthesis.dll

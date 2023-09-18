@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\bin\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\refint\BasicStackOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\BasicStackOperations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\StacksandQueuesExercise\BasicStackOperations\obj\Debug\net6.0\ref\BasicStackOperations.dll
