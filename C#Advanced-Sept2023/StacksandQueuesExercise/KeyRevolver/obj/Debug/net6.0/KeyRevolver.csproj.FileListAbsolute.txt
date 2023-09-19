@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\bin\Debug\net6.0\KeyRevolver.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\bin\Debug\net6.0\KeyRevolver.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\bin\Debug\net6.0\KeyRevolver.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\bin\Debug\net6.0\KeyRevolver.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\bin\Debug\net6.0\KeyRevolver.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\refint\KeyRevolver.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\KeyRevolver.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\KeyRevolver\obj\Debug\net6.0\ref\KeyRevolver.dll

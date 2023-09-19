@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\bin\Debug\net6.0\CupsandBottles.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\bin\Debug\net6.0\CupsandBottles.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\bin\Debug\net6.0\CupsandBottles.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\bin\Debug\net6.0\CupsandBottles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\bin\Debug\net6.0\CupsandBottles.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\refint\CupsandBottles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\CupsandBottles.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\CupsandBottles\obj\Debug\net6.0\ref\CupsandBottles.dll

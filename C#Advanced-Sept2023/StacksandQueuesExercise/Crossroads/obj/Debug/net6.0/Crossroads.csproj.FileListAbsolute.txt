@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\bin\Debug\net6.0\Crossroads.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\bin\Debug\net6.0\Crossroads.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\bin\Debug\net6.0\Crossroads.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\bin\Debug\net6.0\Crossroads.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\bin\Debug\net6.0\Crossroads.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\refint\Crossroads.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\Crossroads.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StacksandQueuesExercise\Crossroads\obj\Debug\net6.0\ref\Crossroads.dll
