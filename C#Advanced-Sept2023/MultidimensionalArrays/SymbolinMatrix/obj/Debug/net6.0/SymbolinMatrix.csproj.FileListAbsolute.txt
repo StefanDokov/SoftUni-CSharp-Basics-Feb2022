@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\bin\Debug\net6.0\SymbolinMatrix.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\bin\Debug\net6.0\SymbolinMatrix.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\bin\Debug\net6.0\SymbolinMatrix.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\bin\Debug\net6.0\SymbolinMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\bin\Debug\net6.0\SymbolinMatrix.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\refint\SymbolinMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\SymbolinMatrix.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SymbolinMatrix\obj\Debug\net6.0\ref\SymbolinMatrix.dll

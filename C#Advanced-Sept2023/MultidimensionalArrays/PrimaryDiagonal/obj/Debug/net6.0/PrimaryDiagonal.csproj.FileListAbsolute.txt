@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\bin\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\refint\PrimaryDiagonal.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\PrimaryDiagonal\obj\Debug\net6.0\ref\PrimaryDiagonal.dll

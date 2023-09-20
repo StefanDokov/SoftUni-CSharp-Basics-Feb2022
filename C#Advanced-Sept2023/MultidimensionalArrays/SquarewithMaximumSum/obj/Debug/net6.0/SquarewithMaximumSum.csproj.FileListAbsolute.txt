@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\bin\Debug\net6.0\SquarewithMaximumSum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\bin\Debug\net6.0\SquarewithMaximumSum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\bin\Debug\net6.0\SquarewithMaximumSum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\bin\Debug\net6.0\SquarewithMaximumSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\bin\Debug\net6.0\SquarewithMaximumSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\refint\SquarewithMaximumSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\SquarewithMaximumSum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArrays\SquarewithMaximumSum\obj\Debug\net6.0\ref\SquarewithMaximumSum.dll
