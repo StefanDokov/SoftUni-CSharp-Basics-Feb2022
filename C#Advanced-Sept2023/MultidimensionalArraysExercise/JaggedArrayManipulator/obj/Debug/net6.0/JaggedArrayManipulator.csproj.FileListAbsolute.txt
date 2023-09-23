@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\refint\JaggedArrayManipulator.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net6.0\ref\JaggedArrayManipulator.dll
