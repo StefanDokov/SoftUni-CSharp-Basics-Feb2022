@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\bin\Debug\net6.0\AverageStudentGrades.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\refint\AverageStudentGrades.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\AverageStudentGrades.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\AverageStudentGrades\obj\Debug\net6.0\ref\AverageStudentGrades.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\bin\Debug\net6.0\CountSameValuesinArray.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\bin\Debug\net6.0\CountSameValuesinArray.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\bin\Debug\net6.0\CountSameValuesinArray.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\bin\Debug\net6.0\CountSameValuesinArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\bin\Debug\net6.0\CountSameValuesinArray.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\refint\CountSameValuesinArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\CountSameValuesinArray.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CountSameValuesinArray\obj\Debug\net6.0\ref\CountSameValuesinArray.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\bin\Debug\net6.0\ProductShop.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\bin\Debug\net6.0\ProductShop.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\bin\Debug\net6.0\ProductShop.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\bin\Debug\net6.0\ProductShop.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\bin\Debug\net6.0\ProductShop.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\refint\ProductShop.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ProductShop.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\ProductShop\obj\Debug\net6.0\ref\ProductShop.dll

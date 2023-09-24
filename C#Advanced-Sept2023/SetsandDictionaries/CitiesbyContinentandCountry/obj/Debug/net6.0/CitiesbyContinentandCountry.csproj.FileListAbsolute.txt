@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\bin\Debug\net6.0\CitiesbyContinentandCountry.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\bin\Debug\net6.0\CitiesbyContinentandCountry.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\bin\Debug\net6.0\CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\bin\Debug\net6.0\CitiesbyContinentandCountry.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\bin\Debug\net6.0\CitiesbyContinentandCountry.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\refint\CitiesbyContinentandCountry.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\CitiesbyContinentandCountry.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionaries\CitiesbyContinentandCountry\obj\Debug\net6.0\ref\CitiesbyContinentandCountry.dll
