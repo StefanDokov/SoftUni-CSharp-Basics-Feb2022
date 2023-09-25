@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\bin\Debug\net6.0\SetsofElements.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\bin\Debug\net6.0\SetsofElements.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\bin\Debug\net6.0\SetsofElements.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\bin\Debug\net6.0\SetsofElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\bin\Debug\net6.0\SetsofElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\refint\SetsofElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\SetsofElements.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\SetsofElements\obj\Debug\net6.0\ref\SetsofElements.dll

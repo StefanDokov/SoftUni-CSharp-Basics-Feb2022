@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\bin\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\refint\UniqueUsernames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\UniqueUsernames.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\UniqueUsernames\obj\Debug\net6.0\ref\UniqueUsernames.dll

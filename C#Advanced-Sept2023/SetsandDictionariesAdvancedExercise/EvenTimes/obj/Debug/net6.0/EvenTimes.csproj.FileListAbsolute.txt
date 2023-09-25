@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\bin\Debug\net6.0\EvenTimes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\refint\EvenTimes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\EvenTimes.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\EvenTimes\obj\Debug\net6.0\ref\EvenTimes.dll

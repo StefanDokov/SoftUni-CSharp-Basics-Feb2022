@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll

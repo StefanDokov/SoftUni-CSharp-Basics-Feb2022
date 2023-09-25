@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net6.0\PeriodicTable.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\refint\PeriodicTable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\PeriodicTable.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\SetsandDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net6.0\ref\PeriodicTable.dll
