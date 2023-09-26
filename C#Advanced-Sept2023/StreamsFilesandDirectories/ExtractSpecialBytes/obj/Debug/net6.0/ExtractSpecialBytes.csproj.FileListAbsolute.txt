@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\bin\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\refint\ExtractSpecialBytes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ExtractSpecialBytes.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\ExtractSpecialBytes\obj\Debug\net6.0\ref\ExtractSpecialBytes.dll

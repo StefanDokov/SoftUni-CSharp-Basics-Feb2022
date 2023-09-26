@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\bin\Debug\net6.0\MergeTextFiles.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\bin\Debug\net6.0\MergeTextFiles.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\bin\Debug\net6.0\MergeTextFiles.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\bin\Debug\net6.0\MergeTextFiles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\bin\Debug\net6.0\MergeTextFiles.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\refint\MergeTextFiles.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\MergeTextFiles.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\MergeTextFiles\obj\Debug\net6.0\ref\MergeTextFiles.dll

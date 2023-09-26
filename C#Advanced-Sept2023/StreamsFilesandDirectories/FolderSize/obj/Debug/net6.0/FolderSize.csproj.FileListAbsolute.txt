@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\bin\Debug\net6.0\FolderSize.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\bin\Debug\net6.0\FolderSize.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\bin\Debug\net6.0\FolderSize.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\bin\Debug\net6.0\FolderSize.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\bin\Debug\net6.0\FolderSize.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\refint\FolderSize.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\FolderSize.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\StreamsFilesandDirectories\FolderSize\obj\Debug\net6.0\ref\FolderSize.dll
