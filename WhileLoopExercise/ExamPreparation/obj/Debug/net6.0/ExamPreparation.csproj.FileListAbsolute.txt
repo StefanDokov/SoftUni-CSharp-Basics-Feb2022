@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\bin\Debug\net6.0\ExamPreparation.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\bin\Debug\net6.0\ExamPreparation.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\bin\Debug\net6.0\ExamPreparation.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\bin\Debug\net6.0\ExamPreparation.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\bin\Debug\net6.0\ExamPreparation.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\refint\ExamPreparation.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ExamPreparation.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\WhileLoopExercise\ExamPreparation\obj\Debug\net6.0\ref\ExamPreparation.dll
