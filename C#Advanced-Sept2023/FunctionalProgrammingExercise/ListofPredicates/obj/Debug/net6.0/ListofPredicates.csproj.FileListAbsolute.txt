@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\bin\Debug\net6.0\ListofPredicates.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\bin\Debug\net6.0\ListofPredicates.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\bin\Debug\net6.0\ListofPredicates.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\bin\Debug\net6.0\ListofPredicates.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\bin\Debug\net6.0\ListofPredicates.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\refint\ListofPredicates.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ListofPredicates.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ListofPredicates\obj\Debug\net6.0\ref\ListofPredicates.dll

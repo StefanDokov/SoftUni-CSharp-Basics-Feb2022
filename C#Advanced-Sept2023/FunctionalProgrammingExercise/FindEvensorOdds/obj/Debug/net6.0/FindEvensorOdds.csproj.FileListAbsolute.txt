@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\bin\Debug\net6.0\FindEvensorOdds.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\bin\Debug\net6.0\FindEvensorOdds.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\bin\Debug\net6.0\FindEvensorOdds.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\bin\Debug\net6.0\FindEvensorOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\bin\Debug\net6.0\FindEvensorOdds.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\refint\FindEvensorOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\FindEvensorOdds.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\FindEvensorOdds\obj\Debug\net6.0\ref\FindEvensorOdds.dll

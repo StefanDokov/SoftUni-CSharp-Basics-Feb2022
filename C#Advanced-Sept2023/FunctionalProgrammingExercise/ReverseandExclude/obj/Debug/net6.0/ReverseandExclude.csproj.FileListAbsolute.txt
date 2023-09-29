@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\bin\Debug\net6.0\ReverseandExclude.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\refint\ReverseandExclude.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ReverseandExclude.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\ReverseandExclude\obj\Debug\net6.0\ref\ReverseandExclude.dll

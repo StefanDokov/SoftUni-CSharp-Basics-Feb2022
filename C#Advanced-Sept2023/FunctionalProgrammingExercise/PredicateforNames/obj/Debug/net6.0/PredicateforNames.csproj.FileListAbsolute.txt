@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\bin\Debug\net6.0\PredicateforNames.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\bin\Debug\net6.0\PredicateforNames.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\bin\Debug\net6.0\PredicateforNames.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\bin\Debug\net6.0\PredicateforNames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\bin\Debug\net6.0\PredicateforNames.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\refint\PredicateforNames.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\PredicateforNames.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgrammingExercise\PredicateforNames\obj\Debug\net6.0\ref\PredicateforNames.dll
