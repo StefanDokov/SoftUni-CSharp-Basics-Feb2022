@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\bin\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\refint\CountUppercaseWords.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\CountUppercaseWords.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\FunctionalProgramming\CountUppercaseWords\obj\Debug\net6.0\ref\CountUppercaseWords.dll
