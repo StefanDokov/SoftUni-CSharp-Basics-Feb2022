@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\bin\Debug\net6.0\SumofTwoNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\bin\Debug\net6.0\SumofTwoNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\bin\Debug\net6.0\SumofTwoNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\bin\Debug\net6.0\SumofTwoNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\bin\Debug\net6.0\SumofTwoNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\refint\SumofTwoNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\SumofTwoNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\SumofTwoNumbers\obj\Debug\net6.0\ref\SumofTwoNumbers.dll

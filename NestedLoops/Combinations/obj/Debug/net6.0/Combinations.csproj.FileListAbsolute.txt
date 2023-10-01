@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\refint\Combinations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Combinations\obj\Debug\net6.0\ref\Combinations.dll

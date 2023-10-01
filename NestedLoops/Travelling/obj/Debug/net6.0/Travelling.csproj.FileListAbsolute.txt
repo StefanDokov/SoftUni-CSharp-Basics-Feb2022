@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\refint\Travelling.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoops\Travelling\obj\Debug\net6.0\ref\Travelling.dll
