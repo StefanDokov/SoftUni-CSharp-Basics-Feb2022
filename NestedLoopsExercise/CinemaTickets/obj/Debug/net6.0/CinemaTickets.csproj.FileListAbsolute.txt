@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\bin\Debug\net6.0\CinemaTickets.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\bin\Debug\net6.0\CinemaTickets.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\bin\Debug\net6.0\CinemaTickets.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\bin\Debug\net6.0\CinemaTickets.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\bin\Debug\net6.0\CinemaTickets.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\refint\CinemaTickets.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\CinemaTickets.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Basics-Sept2023\NestedLoopsExercise\CinemaTickets\obj\Debug\net6.0\ref\CinemaTickets.dll

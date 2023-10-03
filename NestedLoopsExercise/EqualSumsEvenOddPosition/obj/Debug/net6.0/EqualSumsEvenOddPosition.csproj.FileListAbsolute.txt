@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net6.0\EqualSumsEvenOddPosition.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net6.0\EqualSumsEvenOddPosition.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net6.0\EqualSumsEvenOddPosition.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net6.0\EqualSumsEvenOddPosition.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\bin\Debug\net6.0\EqualSumsEvenOddPosition.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\refint\EqualSumsEvenOddPosition.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\EqualSumsEvenOddPosition.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\NestedLoopsExercise\EqualSumsEvenOddPosition\obj\Debug\net6.0\ref\EqualSumsEvenOddPosition.dll
