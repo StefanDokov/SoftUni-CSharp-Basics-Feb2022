@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\bin\Debug\net6.0\OpinionPoll.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\refint\OpinionPoll.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\OpinionPoll.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\DefiningClassesExercise\OpinionPoll\obj\Debug\net6.0\ref\OpinionPoll.dll
