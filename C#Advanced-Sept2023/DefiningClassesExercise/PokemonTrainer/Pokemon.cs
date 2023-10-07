@@ -9,6 +9,12 @@ namespace PokemonTrainer
     public class Pokemon
     {
 
+		public Pokemon(string name, string element, int health) { 
+			Name = name;
+			Element = element;
+			Health = health;
+		}
+
 		private string name;
 
 		public string Name

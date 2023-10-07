@@ -12,6 +12,7 @@ namespace PokemonTrainer
         {
 			Badges = 0;
 			Name = name;
+			Creatures = new();
         }
 
         
@@ -40,6 +41,40 @@ namespace PokemonTrainer
 			set { creatures = value; }
 		}
 
+		public void AddPokemonIntoCollection(Pokemon pokemon)
+		{
+			Creatures.Add(pokemon.Name, pokemon);
+		}
+
+		public Dictionary<string, Pokemon> Checker(string element)
+		{
+			bool haveIt = false;
+			foreach (var pokemon in Creatures)
+			{
+				if (pokemon.Value.Element == element)
+				{
+					Badges++;
+					haveIt = true;
+					break;
+				}
+				
+
+			}
+			if (!haveIt)
+			{
+                foreach (var pokemon in Creatures)
+                {
+                    pokemon.Value.Health -= 10;
+					if (pokemon.Value.Health <= 0)
+					{
+						Creatures.Remove(pokemon.Key);
+					}
+
+
+                }
+            }
+			return Creatures;
+		}
 
 	}
 }
