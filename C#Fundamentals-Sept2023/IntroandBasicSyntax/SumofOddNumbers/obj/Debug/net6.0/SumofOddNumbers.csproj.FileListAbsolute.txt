@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\bin\Debug\net6.0\SumofOddNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\bin\Debug\net6.0\SumofOddNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\bin\Debug\net6.0\SumofOddNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\bin\Debug\net6.0\SumofOddNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\bin\Debug\net6.0\SumofOddNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\refint\SumofOddNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\SumofOddNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\SumofOddNumbers\obj\Debug\net6.0\ref\SumofOddNumbers.dll

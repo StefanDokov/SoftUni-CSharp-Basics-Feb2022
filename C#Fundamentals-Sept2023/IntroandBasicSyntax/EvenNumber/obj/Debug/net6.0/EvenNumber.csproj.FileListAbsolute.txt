@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\bin\Debug\net6.0\EvenNumber.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\bin\Debug\net6.0\EvenNumber.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\bin\Debug\net6.0\EvenNumber.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\bin\Debug\net6.0\EvenNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\bin\Debug\net6.0\EvenNumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\refint\EvenNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\EvenNumber.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\IntroandBasicSyntax\EvenNumber\obj\Debug\net6.0\ref\EvenNumber.dll

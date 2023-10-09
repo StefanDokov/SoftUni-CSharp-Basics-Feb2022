@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\bin\Debug\net6.0\Backin30Minutes.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\bin\Debug\net6.0\Backin30Minutes.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\bin\Debug\net6.0\Backin30Minutes.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\bin\Debug\net6.0\Backin30Minutes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\bin\Debug\net6.0\Backin30Minutes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\refint\Backin30Minutes.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\Backin30Minutes.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\StudentInformation\Backin30Minutes\obj\Debug\net6.0\ref\Backin30Minutes.dll
