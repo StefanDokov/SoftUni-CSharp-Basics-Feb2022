@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\refint\GenericBoxofString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\GenericsExercise\GenericBoxofString\obj\Debug\net6.0\ref\GenericBoxofString.dll
