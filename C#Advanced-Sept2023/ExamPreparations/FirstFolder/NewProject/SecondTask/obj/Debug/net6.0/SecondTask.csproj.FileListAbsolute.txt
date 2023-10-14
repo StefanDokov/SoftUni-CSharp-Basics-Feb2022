@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\bin\Debug\net6.0\SecondTask.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\bin\Debug\net6.0\SecondTask.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\bin\Debug\net6.0\SecondTask.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\bin\Debug\net6.0\SecondTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\bin\Debug\net6.0\SecondTask.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\refint\SecondTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\SecondTask.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\FirstFolder\NewProject\SecondTask\obj\Debug\net6.0\ref\SecondTask.dll
