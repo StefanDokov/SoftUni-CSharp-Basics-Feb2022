@@ -29,14 +29,17 @@ namespace VendingSystem
 			set { drinks = value; }
 		}
 
-		public int GetCount()
+		private int getCount;
+
+		public int GetCount
 		{
-			return Drinks.Count;
+			get { return Drinks.Count; }
 		}
+
 
 		public void AddDrink(Drink drink)
 		{
-			if (Drinks.Count < buttonCapacity)
+			if (Drinks.Count < ButtonCapacity)
 			{
 
 			Drinks.Add(drink);
@@ -49,6 +52,7 @@ namespace VendingSystem
 			{ 
 				if (drink.Name == name)
 				{
+					Drinks.Remove(drink);
 					return true;
 				}
 			}
@@ -57,14 +61,15 @@ namespace VendingSystem
 
 		public Drink GetLongest() 
 		{
-            return  Drinks.OrderByDescending(x => x.Volume).FirstOrDefault();
-			
+            Drink longest = Drinks.OrderByDescending(d => d.Volume).First();
+			return longest;
 		}
 
 		public Drink GetCheapest()
 		{
-			return Drinks.OrderBy(x => x.Price).FirstOrDefault();
-
+			 
+		    Drink cheapest = Drinks.OrderBy(d => d.Price).First();
+            return cheapest;
         }
 
 		public string BuyDrink(string name)
@@ -74,13 +79,13 @@ namespace VendingSystem
 			{
 				if (drink.Name == name)
 				{
-					show = drink.ToString();
+					show = drink.ToString().TrimEnd();
 				}
 			}
 			return show;
 		}
 
-		public StringBuilder Report()
+		public string Report()
 		{
 			StringBuilder stringBuilder = new StringBuilder();
 			stringBuilder.AppendLine("Drinks available:");
@@ -89,7 +94,7 @@ namespace VendingSystem
 				stringBuilder.AppendLine(drink.ToString());
 			}
 			
-			return stringBuilder;
+			return stringBuilder.ToString().TrimEnd();
 			
 		}
 	}
