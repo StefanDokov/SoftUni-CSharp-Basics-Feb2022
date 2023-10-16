@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\bin\Debug\net6.0\Printandsum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\bin\Debug\net6.0\Printandsum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\bin\Debug\net6.0\Printandsum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\bin\Debug\net6.0\Printandsum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\bin\Debug\net6.0\Printandsum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\refint\Printandsum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\Printandsum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Printandsum\obj\Debug\net6.0\ref\Printandsum.dll

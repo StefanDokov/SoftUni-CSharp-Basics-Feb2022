@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\bin\Debug\net6.0\Strongnumber.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\bin\Debug\net6.0\Strongnumber.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\bin\Debug\net6.0\Strongnumber.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\bin\Debug\net6.0\Strongnumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\bin\Debug\net6.0\Strongnumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\refint\Strongnumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\Strongnumber.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\Strongnumber\obj\Debug\net6.0\ref\Strongnumber.dll

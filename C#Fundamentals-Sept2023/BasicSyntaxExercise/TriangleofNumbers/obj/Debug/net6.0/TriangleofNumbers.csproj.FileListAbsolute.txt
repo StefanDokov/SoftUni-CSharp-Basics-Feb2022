@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\bin\Debug\net6.0\TriangleofNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\bin\Debug\net6.0\TriangleofNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\bin\Debug\net6.0\TriangleofNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\bin\Debug\net6.0\TriangleofNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\bin\Debug\net6.0\TriangleofNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\refint\TriangleofNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\TriangleofNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\TriangleofNumbers\obj\Debug\net6.0\ref\TriangleofNumbers.dll
