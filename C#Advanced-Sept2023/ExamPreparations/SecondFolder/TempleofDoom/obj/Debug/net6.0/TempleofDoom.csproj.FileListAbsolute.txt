@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\bin\Debug\net6.0\TempleofDoom.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\bin\Debug\net6.0\TempleofDoom.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\bin\Debug\net6.0\TempleofDoom.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\bin\Debug\net6.0\TempleofDoom.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\bin\Debug\net6.0\TempleofDoom.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\refint\TempleofDoom.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\TempleofDoom.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\SecondFolder\TempleofDoom\obj\Debug\net6.0\ref\TempleofDoom.dll
