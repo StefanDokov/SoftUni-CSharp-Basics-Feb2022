@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubberDuckDebugers", "RubberDuckDebugers\RubberDuckDebugers.csproj", "{AA7B0FD7-A323-44F5-A731-C988C1D5FCD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RubberDuckDebugers", "RubberDuckDebugers\RubberDuckDebugers.csproj", "{AA7B0FD7-A323-44F5-A731-C988C1D5FCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSquirrel", "TheSquirrel\TheSquirrel.csproj", "{FBF6A022-6908-4ABB-8C82-C36A654225F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClothesMagazine", "ClothesMagazine\ClothesMagazine.csproj", "{C67A5D9D-889D-43E4-9AC6-091261EE1F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AA7B0FD7-A323-44F5-A731-C988C1D5FCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA7B0FD7-A323-44F5-A731-C988C1D5FCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA7B0FD7-A323-44F5-A731-C988C1D5FCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF6A022-6908-4ABB-8C82-C36A654225F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF6A022-6908-4ABB-8C82-C36A654225F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF6A022-6908-4ABB-8C82-C36A654225F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF6A022-6908-4ABB-8C82-C36A654225F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67A5D9D-889D-43E4-9AC6-091261EE1F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67A5D9D-889D-43E4-9AC6-091261EE1F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67A5D9D-889D-43E4-9AC6-091261EE1F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67A5D9D-889D-43E4-9AC6-091261EE1F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

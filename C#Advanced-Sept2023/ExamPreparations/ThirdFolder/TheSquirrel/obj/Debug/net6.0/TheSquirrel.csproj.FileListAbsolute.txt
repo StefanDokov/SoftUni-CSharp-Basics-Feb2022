@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\bin\Debug\net6.0\TheSquirrel.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\bin\Debug\net6.0\TheSquirrel.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\bin\Debug\net6.0\TheSquirrel.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\bin\Debug\net6.0\TheSquirrel.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\bin\Debug\net6.0\TheSquirrel.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\refint\TheSquirrel.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\TheSquirrel.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ThirdFolder\TheSquirrel\obj\Debug\net6.0\ref\TheSquirrel.dll
