@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\bin\Debug\net6.0\ThirdTask.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\bin\Debug\net6.0\ThirdTask.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\bin\Debug\net6.0\ThirdTask.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\bin\Debug\net6.0\ThirdTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\bin\Debug\net6.0\ThirdTask.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\refint\ThirdTask.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ThirdTask.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Advanced-Sept2023\ExamPreparations\ExamFolderOctober2023\ThirdTask\obj\Debug\net6.0\ref\ThirdTask.dll
