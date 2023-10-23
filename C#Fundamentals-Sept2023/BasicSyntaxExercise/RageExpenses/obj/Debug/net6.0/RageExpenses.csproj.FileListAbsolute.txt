@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\bin\Debug\net6.0\RageExpenses.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\bin\Debug\net6.0\RageExpenses.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\bin\Debug\net6.0\RageExpenses.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\bin\Debug\net6.0\RageExpenses.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\bin\Debug\net6.0\RageExpenses.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\refint\RageExpenses.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\RageExpenses.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\RageExpenses\obj\Debug\net6.0\ref\RageExpenses.dll

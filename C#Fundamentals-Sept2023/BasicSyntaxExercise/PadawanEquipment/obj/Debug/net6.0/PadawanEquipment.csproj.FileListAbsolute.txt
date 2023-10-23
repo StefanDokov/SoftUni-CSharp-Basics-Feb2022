@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\bin\Debug\net6.0\PadawanEquipment.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\bin\Debug\net6.0\PadawanEquipment.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\bin\Debug\net6.0\PadawanEquipment.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\bin\Debug\net6.0\PadawanEquipment.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\bin\Debug\net6.0\PadawanEquipment.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\refint\PadawanEquipment.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\PadawanEquipment.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\PadawanEquipment\obj\Debug\net6.0\ref\PadawanEquipment.dll
