@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\bin\Debug\net6.0\EnglishNameoftheLastDigit.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\bin\Debug\net6.0\EnglishNameoftheLastDigit.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\bin\Debug\net6.0\EnglishNameoftheLastDigit.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\bin\Debug\net6.0\EnglishNameoftheLastDigit.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\bin\Debug\net6.0\EnglishNameoftheLastDigit.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\refint\EnglishNameoftheLastDigit.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\EnglishNameoftheLastDigit.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\BasicSyntaxExercise\EnglishNameoftheLastDigit\obj\Debug\net6.0\ref\EnglishNameoftheLastDigit.dll
