@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\bin\Debug\net6.0\ExactSumofRealNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\bin\Debug\net6.0\ExactSumofRealNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\bin\Debug\net6.0\ExactSumofRealNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\bin\Debug\net6.0\ExactSumofRealNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\bin\Debug\net6.0\ExactSumofRealNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\refint\ExactSumofRealNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ExactSumofRealNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ExactSumofRealNumbers\obj\Debug\net6.0\ref\ExactSumofRealNumbers.dll

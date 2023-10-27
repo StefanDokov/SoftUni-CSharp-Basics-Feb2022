@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\bin\Debug\net6.0\PoundstoDollars.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\bin\Debug\net6.0\PoundstoDollars.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\bin\Debug\net6.0\PoundstoDollars.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\bin\Debug\net6.0\PoundstoDollars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\bin\Debug\net6.0\PoundstoDollars.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\refint\PoundstoDollars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\PoundstoDollars.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\PoundstoDollars\obj\Debug\net6.0\ref\PoundstoDollars.dll
