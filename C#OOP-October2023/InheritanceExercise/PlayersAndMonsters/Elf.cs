@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace PlayersAndMonsters
 {
-    internal class Elf
+    public abstract class Elf : Hero
     {
+        public Elf(string username, int level) 
+            :base(username, level) 
+        {
+        }
     }
 }

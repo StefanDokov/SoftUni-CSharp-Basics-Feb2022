@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace PlayersAndMonsters
 {
-    internal class Knight
+    public abstract class Knight : Hero
     {
+        public Knight(string username, int level)
+            : base(username, level)
+        {
+        }
     }
 }
