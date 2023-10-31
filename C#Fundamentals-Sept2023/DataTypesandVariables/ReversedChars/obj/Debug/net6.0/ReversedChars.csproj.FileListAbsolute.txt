@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\bin\Debug\net6.0\ReversedChars.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\refint\ReversedChars.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ReversedChars.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\ReversedChars\obj\Debug\net6.0\ref\ReversedChars.dll

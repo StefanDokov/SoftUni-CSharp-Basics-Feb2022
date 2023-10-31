@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\bin\Debug\net6.0\RefactorVolumeofPyramid.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\bin\Debug\net6.0\RefactorVolumeofPyramid.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\bin\Debug\net6.0\RefactorVolumeofPyramid.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\bin\Debug\net6.0\RefactorVolumeofPyramid.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\bin\Debug\net6.0\RefactorVolumeofPyramid.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\refint\RefactorVolumeofPyramid.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\RefactorVolumeofPyramid.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorVolumeofPyramid\obj\Debug\net6.0\ref\RefactorVolumeofPyramid.dll

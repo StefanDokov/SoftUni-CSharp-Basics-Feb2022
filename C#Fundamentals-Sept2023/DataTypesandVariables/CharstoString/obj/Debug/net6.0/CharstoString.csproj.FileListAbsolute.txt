@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\bin\Debug\net6.0\CharstoString.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\bin\Debug\net6.0\CharstoString.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\bin\Debug\net6.0\CharstoString.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\bin\Debug\net6.0\CharstoString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\bin\Debug\net6.0\CharstoString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\refint\CharstoString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\CharstoString.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\CharstoString\obj\Debug\net6.0\ref\CharstoString.dll

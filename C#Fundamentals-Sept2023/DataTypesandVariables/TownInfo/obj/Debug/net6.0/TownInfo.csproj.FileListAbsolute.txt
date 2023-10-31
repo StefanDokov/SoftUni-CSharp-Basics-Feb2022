@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\bin\Debug\net6.0\TownInfo.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\bin\Debug\net6.0\TownInfo.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\bin\Debug\net6.0\TownInfo.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\bin\Debug\net6.0\TownInfo.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\bin\Debug\net6.0\TownInfo.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\refint\TownInfo.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\TownInfo.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\TownInfo\obj\Debug\net6.0\ref\TownInfo.dll
