@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\bin\Debug\net6.0\RefactorSpecialNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\bin\Debug\net6.0\RefactorSpecialNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\bin\Debug\net6.0\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\bin\Debug\net6.0\RefactorSpecialNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\bin\Debug\net6.0\RefactorSpecialNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\refint\RefactorSpecialNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\RefactorSpecialNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariables\RefactorSpecialNumbers\obj\Debug\net6.0\ref\RefactorSpecialNumbers.dll

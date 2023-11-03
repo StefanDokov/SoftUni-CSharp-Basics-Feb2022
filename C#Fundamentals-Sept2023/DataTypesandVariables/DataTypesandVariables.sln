@@ -15,15 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialNumbers", "SpecialNu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReversedChars", "ReversedChars\ReversedChars.csproj", "{0660AEC8-692C-40FA-9348-B8A27586CD80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatNames", "ConcatNames\ConcatNames.csproj", "{0C39F431-DEB4-4300-900F-B08E0AD73BDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatNames", "ConcatNames\ConcatNames.csproj", "{0C39F431-DEB4-4300-900F-B08E0AD73BDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownInfo", "TownInfo\TownInfo.csproj", "{498E0BFD-ED1E-4B31-9C4D-64BF230ADA9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TownInfo", "TownInfo\TownInfo.csproj", "{498E0BFD-ED1E-4B31-9C4D-64BF230ADA9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharstoString", "CharstoString\CharstoString.csproj", "{7ED32E30-67B8-4480-9208-E8C0750C8448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharstoString", "CharstoString\CharstoString.csproj", "{7ED32E30-67B8-4480-9208-E8C0750C8448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowerorUpper", "LowerorUpper\LowerorUpper.csproj", "{FB976C65-CF4B-4179-BC8B-976068BF73C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowerorUpper", "LowerorUpper\LowerorUpper.csproj", "{FB976C65-CF4B-4179-BC8B-976068BF73C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorVolumeofPyramid", "RefactorVolumeofPyramid\RefactorVolumeofPyramid.csproj", "{97A50F5C-769F-4E41-9AC5-870E0A2D63FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefactorVolumeofPyramid", "RefactorVolumeofPyramid\RefactorVolumeofPyramid.csproj", "{97A50F5C-769F-4E41-9AC5-870E0A2D63FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorSpecialNumbers", "RefactorSpecialNumbers\RefactorSpecialNumbers.csproj", "{B1260A59-FCD1-4C76-BC44-6C3D29371EA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{97A50F5C-769F-4E41-9AC5-870E0A2D63FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97A50F5C-769F-4E41-9AC5-870E0A2D63FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97A50F5C-769F-4E41-9AC5-870E0A2D63FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1260A59-FCD1-4C76-BC44-6C3D29371EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1260A59-FCD1-4C76-BC44-6C3D29371EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1260A59-FCD1-4C76-BC44-6C3D29371EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1260A59-FCD1-4C76-BC44-6C3D29371EA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
