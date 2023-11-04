@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\bin\Debug\net6.0\Telephony.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\bin\Debug\net6.0\Telephony.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\bin\Debug\net6.0\Telephony.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\bin\Debug\net6.0\Telephony.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\bin\Debug\net6.0\Telephony.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\refint\Telephony.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\Telephony.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\Telephony\obj\Debug\net6.0\ref\Telephony.dll

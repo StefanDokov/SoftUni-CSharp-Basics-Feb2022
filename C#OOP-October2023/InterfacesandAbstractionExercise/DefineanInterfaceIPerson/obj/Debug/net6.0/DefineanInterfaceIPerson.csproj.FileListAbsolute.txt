@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\bin\Debug\net6.0\DefineanInterfaceIPerson.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\refint\DefineanInterfaceIPerson.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\DefineanInterfaceIPerson.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\DefineanInterfaceIPerson\obj\Debug\net6.0\ref\DefineanInterfaceIPerson.dll
