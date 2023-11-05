@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\bin\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\refint\BirthdayCelebrations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\InterfacesandAbstractionExercise\BirthdayCelebrations\obj\Debug\net6.0\ref\BirthdayCelebrations.dll
