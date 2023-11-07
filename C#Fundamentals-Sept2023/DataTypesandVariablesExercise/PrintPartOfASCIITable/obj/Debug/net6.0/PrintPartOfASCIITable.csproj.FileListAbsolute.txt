@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\bin\Debug\net6.0\PrintPartOfASCIITable.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\bin\Debug\net6.0\PrintPartOfASCIITable.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\bin\Debug\net6.0\PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\bin\Debug\net6.0\PrintPartOfASCIITable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\bin\Debug\net6.0\PrintPartOfASCIITable.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\refint\PrintPartOfASCIITable.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\PrintPartOfASCIITable\obj\Debug\net6.0\ref\PrintPartOfASCIITable.dll

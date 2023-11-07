@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\bin\Debug\net6.0\SumDigits.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\bin\Debug\net6.0\SumDigits.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\bin\Debug\net6.0\SumDigits.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\bin\Debug\net6.0\SumDigits.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\bin\Debug\net6.0\SumDigits.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\refint\SumDigits.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\SumDigits.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\SumDigits\obj\Debug\net6.0\ref\SumDigits.dll

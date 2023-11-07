@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\bin\Debug\net6.0\IntegerOperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\refint\IntegerOperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\IntegerOperations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\DataTypesandVariablesExercise\IntegerOperations\obj\Debug\net6.0\ref\IntegerOperations.dll
