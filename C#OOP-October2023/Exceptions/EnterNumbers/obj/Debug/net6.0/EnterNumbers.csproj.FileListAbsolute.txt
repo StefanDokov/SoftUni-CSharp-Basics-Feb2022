@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\bin\Debug\net6.0\EnterNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\bin\Debug\net6.0\EnterNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\bin\Debug\net6.0\EnterNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\bin\Debug\net6.0\EnterNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\bin\Debug\net6.0\EnterNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\refint\EnterNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\EnterNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\EnterNumbers\obj\Debug\net6.0\ref\EnterNumbers.dll

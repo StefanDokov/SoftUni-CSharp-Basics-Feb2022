@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exceptions\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
