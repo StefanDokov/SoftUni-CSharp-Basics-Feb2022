@@ -1,38 +1,56 @@
-﻿
-
-
-using System;
-
-class Program
+﻿public class StartUp
 {
+
     static void Main()
     {
-        string[] elements = Console.ReadLine().Split(' ');
-        int sum = 0;
+        List<int> lister = new();
 
-        foreach (var element in elements)
+        int counter = 0;
+        int s = 1;
+        while (counter < 10)
         {
+            string inter = Console.ReadLine();
+
             try
             {
-                int number = int.Parse(element);
-                sum += number;
-                Console.WriteLine($"Element '{element}' processed - current sum: {sum}");
+                Check(inter);
+                counter++;
             }
-            catch (FormatException)
+            catch (Exception ex)
             {
-
-                Console.WriteLine($"The element '{element}' is in wrong format!");
-                Console.WriteLine($"Element '{element}' processed - current sum: {sum}");
-
+                Console.WriteLine(ex.Message);
             }
-            catch (OverflowException)
-            {
-                Console.WriteLine($"The element '{element}' is out of range!");
-                Console.WriteLine($"Element '{element}' processed - current sum: {sum}");
 
-            }
         }
+        Console.WriteLine(String.Join(", ", lister));
 
-        Console.WriteLine($"The total sum of all integers is: {sum}");
+
+        void Check(string input)
+        {
+
+            bool isNum = int.TryParse(input, out var num);
+
+            if (isNum)
+            {
+
+                if (num > s && num < 100)
+                {
+                    lister.Add(num);
+                    s = num;
+                }
+                else
+                {
+
+                    throw new Exception($"Your number is not in range {s} - 100!");
+                }
+            }
+            else
+            {
+                throw new Exception("Invalid Number!");
+            }
+
+
+        }
     }
+
 }
