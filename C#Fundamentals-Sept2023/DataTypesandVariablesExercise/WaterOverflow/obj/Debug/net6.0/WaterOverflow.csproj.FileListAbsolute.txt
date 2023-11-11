@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\bin\Debug\net6.0\WaterOverflow.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\refint\WaterOverflow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\WaterOverflow.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\WaterOverflow\obj\Debug\net6.0\ref\WaterOverflow.dll

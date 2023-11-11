@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\bin\Debug\net6.0\TriplesofLatinLetters.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\refint\TriplesofLatinLetters.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\TriplesofLatinLetters.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\TriplesofLatinLetters\obj\Debug\net6.0\ref\TriplesofLatinLetters.dll
