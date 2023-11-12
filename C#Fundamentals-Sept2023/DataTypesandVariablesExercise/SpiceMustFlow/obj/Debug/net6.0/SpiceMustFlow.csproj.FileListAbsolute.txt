@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\bin\Debug\net6.0\SpiceMustFlow.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\refint\SpiceMustFlow.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\SpiceMustFlow.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\SpiceMustFlow\obj\Debug\net6.0\ref\SpiceMustFlow.dll
