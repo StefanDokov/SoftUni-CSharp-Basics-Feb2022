@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\bin\Debug\net6.0\FloatingEquality.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\bin\Debug\net6.0\FloatingEquality.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\bin\Debug\net6.0\FloatingEquality.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\bin\Debug\net6.0\FloatingEquality.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\bin\Debug\net6.0\FloatingEquality.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\refint\FloatingEquality.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\FloatingEquality.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FloatingEquality\obj\Debug\net6.0\ref\FloatingEquality.dll

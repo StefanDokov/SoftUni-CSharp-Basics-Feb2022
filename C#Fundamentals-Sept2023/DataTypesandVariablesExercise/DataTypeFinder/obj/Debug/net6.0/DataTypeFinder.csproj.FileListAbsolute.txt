@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\bin\Debug\net6.0\DataTypeFinder.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\bin\Debug\net6.0\DataTypeFinder.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\bin\Debug\net6.0\DataTypeFinder.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\bin\Debug\net6.0\DataTypeFinder.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\bin\Debug\net6.0\DataTypeFinder.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\refint\DataTypeFinder.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\DataTypeFinder.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\DataTypeFinder\obj\Debug\net6.0\ref\DataTypeFinder.dll

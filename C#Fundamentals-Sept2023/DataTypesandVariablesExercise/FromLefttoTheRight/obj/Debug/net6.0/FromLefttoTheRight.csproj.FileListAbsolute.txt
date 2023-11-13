@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\bin\Debug\net6.0\FromLefttoTheRight.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\bin\Debug\net6.0\FromLefttoTheRight.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\bin\Debug\net6.0\FromLefttoTheRight.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\bin\Debug\net6.0\FromLefttoTheRight.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\bin\Debug\net6.0\FromLefttoTheRight.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\refint\FromLefttoTheRight.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\FromLefttoTheRight.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\DataTypesandVariablesExercise\FromLefttoTheRight\obj\Debug\net6.0\ref\FromLefttoTheRight.dll
