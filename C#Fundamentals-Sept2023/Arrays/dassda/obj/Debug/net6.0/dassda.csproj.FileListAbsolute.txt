@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\bin\Debug\net6.0\dassda.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\bin\Debug\net6.0\dassda.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\bin\Debug\net6.0\dassda.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\bin\Debug\net6.0\dassda.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\bin\Debug\net6.0\dassda.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\refint\dassda.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\dassda.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\dassda\obj\Debug\net6.0\ref\dassda.dll
