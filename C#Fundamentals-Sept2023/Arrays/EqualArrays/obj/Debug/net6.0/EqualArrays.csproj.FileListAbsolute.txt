@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\bin\Debug\net6.0\EqualArrays.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\bin\Debug\net6.0\EqualArrays.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\bin\Debug\net6.0\EqualArrays.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\bin\Debug\net6.0\EqualArrays.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\bin\Debug\net6.0\EqualArrays.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\refint\EqualArrays.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\EqualArrays.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EqualArrays\obj\Debug\net6.0\ref\EqualArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\bin\Debug\net6.0\EvenandOddSubtraction.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\refint\EvenandOddSubtraction.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\EvenandOddSubtraction.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\EvenandOddSubtraction\obj\Debug\net6.0\ref\EvenandOddSubtraction.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\bin\Debug\net6.0\ReverseArrayofStrings.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\bin\Debug\net6.0\ReverseArrayofStrings.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\bin\Debug\net6.0\ReverseArrayofStrings.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\bin\Debug\net6.0\ReverseArrayofStrings.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\bin\Debug\net6.0\ReverseArrayofStrings.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\refint\ReverseArrayofStrings.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ReverseArrayofStrings.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Arrays\ReverseArrayofStrings\obj\Debug\net6.0\ref\ReverseArrayofStrings.dll
