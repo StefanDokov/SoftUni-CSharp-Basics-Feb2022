@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\bin\Debug\net6.0\CommonElements.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\bin\Debug\net6.0\CommonElements.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\bin\Debug\net6.0\CommonElements.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\bin\Debug\net6.0\CommonElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\bin\Debug\net6.0\CommonElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\refint\CommonElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\CommonElements.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\CommonElements\obj\Debug\net6.0\ref\CommonElements.dll
