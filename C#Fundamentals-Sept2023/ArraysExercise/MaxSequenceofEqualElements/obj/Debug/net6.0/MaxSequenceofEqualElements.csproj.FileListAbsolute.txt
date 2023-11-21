@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\bin\Debug\net6.0\MaxSequenceofEqualElements.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\bin\Debug\net6.0\MaxSequenceofEqualElements.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\bin\Debug\net6.0\MaxSequenceofEqualElements.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\bin\Debug\net6.0\MaxSequenceofEqualElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\bin\Debug\net6.0\MaxSequenceofEqualElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\refint\MaxSequenceofEqualElements.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\MaxSequenceofEqualElements.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MaxSequenceofEqualElements\obj\Debug\net6.0\ref\MaxSequenceofEqualElements.dll
