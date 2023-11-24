@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\bin\Debug\net6.0\MagicSum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\bin\Debug\net6.0\MagicSum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\bin\Debug\net6.0\MagicSum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\bin\Debug\net6.0\MagicSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\bin\Debug\net6.0\MagicSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\refint\MagicSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\MagicSum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\MagicSum\obj\Debug\net6.0\ref\MagicSum.dll

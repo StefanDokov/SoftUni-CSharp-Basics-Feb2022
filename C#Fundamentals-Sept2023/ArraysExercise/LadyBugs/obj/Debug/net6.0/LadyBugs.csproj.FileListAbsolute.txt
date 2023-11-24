@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\bin\Debug\net6.0\LadyBugs.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\bin\Debug\net6.0\LadyBugs.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\bin\Debug\net6.0\LadyBugs.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\bin\Debug\net6.0\LadyBugs.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\bin\Debug\net6.0\LadyBugs.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\refint\LadyBugs.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\LadyBugs.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LadyBugs\obj\Debug\net6.0\ref\LadyBugs.dll
