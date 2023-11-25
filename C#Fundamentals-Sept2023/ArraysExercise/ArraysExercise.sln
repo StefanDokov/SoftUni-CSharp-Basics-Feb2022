@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicSum", "MagicSum\MagicS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaminoFactory", "KaminoFactory\KaminoFactory.csproj", "{CDED1D7A-72FA-44F3-B55C-0D1430FF2E65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortandPrintArray", "EncryptSortandPrintArray\EncryptSortandPrintArray.csproj", "{F737E36C-9A61-494F-A239-E5706A48BB9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

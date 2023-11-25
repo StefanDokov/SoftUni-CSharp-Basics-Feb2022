@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\bin\Debug\net6.0\EncryptSortandPrintArray.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\bin\Debug\net6.0\EncryptSortandPrintArray.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\bin\Debug\net6.0\EncryptSortandPrintArray.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\bin\Debug\net6.0\EncryptSortandPrintArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\bin\Debug\net6.0\EncryptSortandPrintArray.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\refint\EncryptSortandPrintArray.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\EncryptSortandPrintArray.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\EncryptSortandPrintArray\obj\Debug\net6.0\ref\EncryptSortandPrintArray.dll
