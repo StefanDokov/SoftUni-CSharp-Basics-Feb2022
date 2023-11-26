@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\bin\Debug\net6.0\RecursiveFibonacci.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\bin\Debug\net6.0\RecursiveFibonacci.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\bin\Debug\net6.0\RecursiveFibonacci.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\bin\Debug\net6.0\RecursiveFibonacci.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\bin\Debug\net6.0\RecursiveFibonacci.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\refint\RecursiveFibonacci.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\RecursiveFibonacci.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\RecursiveFibonacci\obj\Debug\net6.0\ref\RecursiveFibonacci.dll

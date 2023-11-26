@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\bin\Debug\net6.0\LongestIncreasingSubsequence.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\refint\LongestIncreasingSubsequence.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\LongestIncreasingSubsequence.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\LongestIncreasingSubsequence\obj\Debug\net6.0\ref\LongestIncreasingSubsequence.dll

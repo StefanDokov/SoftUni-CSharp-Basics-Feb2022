@@ -23,7 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaminoFactory", "KaminoFact
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LadyBugs", "LadyBugs\LadyBugs.csproj", "{6DA398AC-CE70-450A-B3E4-C5F92EEE0B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortandPrintArray", "EncryptSortandPrintArray\EncryptSortandPrintArray.csproj", "{F737E36C-9A61-494F-A239-E5706A48BB9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptSortandPrintArray", "EncryptSortandPrintArray\EncryptSortandPrintArray.csproj", "{F737E36C-9A61-494F-A239-E5706A48BB9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{2A50370E-7B83-4339-AA06-D92686ABB14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFibonacci", "RecursiveFibonacci\RecursiveFibonacci.csproj", "{1CF8069B-D2FA-41D8-B359-13CF51E6EDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldandSum", "FoldandSum\FoldandSum.csproj", "{83077A72-8FEF-4809-B078-625E978C90B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{EC22993B-CA86-4E85-B0DE-D8EB3A5A182E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F737E36C-9A61-494F-A239-E5706A48BB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A50370E-7B83-4339-AA06-D92686ABB14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A50370E-7B83-4339-AA06-D92686ABB14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A50370E-7B83-4339-AA06-D92686ABB14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A50370E-7B83-4339-AA06-D92686ABB14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF8069B-D2FA-41D8-B359-13CF51E6EDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF8069B-D2FA-41D8-B359-13CF51E6EDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF8069B-D2FA-41D8-B359-13CF51E6EDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF8069B-D2FA-41D8-B359-13CF51E6EDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83077A72-8FEF-4809-B078-625E978C90B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83077A72-8FEF-4809-B078-625E978C90B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83077A72-8FEF-4809-B078-625E978C90B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83077A72-8FEF-4809-B078-625E978C90B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC22993B-CA86-4E85-B0DE-D8EB3A5A182E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC22993B-CA86-4E85-B0DE-D8EB3A5A182E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC22993B-CA86-4E85-B0DE-D8EB3A5A182E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC22993B-CA86-4E85-B0DE-D8EB3A5A182E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

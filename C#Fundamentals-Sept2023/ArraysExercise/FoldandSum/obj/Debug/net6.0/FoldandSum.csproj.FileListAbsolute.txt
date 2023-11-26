@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\bin\Debug\net6.0\FoldandSum.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\bin\Debug\net6.0\FoldandSum.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\bin\Debug\net6.0\FoldandSum.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\bin\Debug\net6.0\FoldandSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\bin\Debug\net6.0\FoldandSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\refint\FoldandSum.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\FoldandSum.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\ArraysExercise\FoldandSum\obj\Debug\net6.0\ref\FoldandSum.dll
