@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\bin\Debug\net6.0\Calculations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\bin\Debug\net6.0\Calculations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\bin\Debug\net6.0\Calculations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\bin\Debug\net6.0\Calculations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\bin\Debug\net6.0\Calculations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\refint\Calculations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\Calculations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Calculations\obj\Debug\net6.0\ref\Calculations.dll
