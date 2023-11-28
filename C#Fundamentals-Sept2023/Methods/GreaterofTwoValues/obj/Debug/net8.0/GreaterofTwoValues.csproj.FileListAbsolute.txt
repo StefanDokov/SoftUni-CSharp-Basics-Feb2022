@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\bin\Debug\net8.0\GreaterofTwoValues.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\bin\Debug\net8.0\GreaterofTwoValues.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\bin\Debug\net8.0\GreaterofTwoValues.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\bin\Debug\net8.0\GreaterofTwoValues.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\bin\Debug\net8.0\GreaterofTwoValues.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\refint\GreaterofTwoValues.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\GreaterofTwoValues.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\GreaterofTwoValues\obj\Debug\net8.0\ref\GreaterofTwoValues.dll

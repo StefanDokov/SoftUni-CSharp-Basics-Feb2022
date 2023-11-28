@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\bin\Debug\net8.0\MathPower.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\bin\Debug\net8.0\MathPower.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\bin\Debug\net8.0\MathPower.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\bin\Debug\net8.0\MathPower.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\bin\Debug\net8.0\MathPower.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\refint\MathPower.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\MathPower.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MathPower\obj\Debug\net8.0\ref\MathPower.dll

@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\bin\Debug\net8.0\RepeatString.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\bin\Debug\net8.0\RepeatString.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\bin\Debug\net8.0\RepeatString.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\bin\Debug\net8.0\RepeatString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\bin\Debug\net8.0\RepeatString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\refint\RepeatString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\RepeatString.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\RepeatString\obj\Debug\net8.0\ref\RepeatString.dll

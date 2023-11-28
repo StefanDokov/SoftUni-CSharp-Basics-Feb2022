@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\refint\CalculateRectangleArea.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\CalculateRectangleArea\obj\Debug\net8.0\ref\CalculateRectangleArea.dll
