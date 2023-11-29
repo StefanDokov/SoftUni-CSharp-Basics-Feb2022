@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintingTriangle", "Printin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orders", "Orders\Orders.csproj", "{A7FB9BEB-52FA-4777-AE6F-94BC51587A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateRectangleArea", "CalculateRectangleArea\CalculateRectangleArea.csproj", "{F9310ABC-C8C3-4BF2-9B66-4E70A1B7B501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateRectangleArea", "CalculateRectangleArea\CalculateRectangleArea.csproj", "{F9310ABC-C8C3-4BF2-9B66-4E70A1B7B501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatString", "RepeatString\RepeatString.csproj", "{834EAAFC-484C-498E-A41E-11CFECA1A6BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatString", "RepeatString\RepeatString.csproj", "{834EAAFC-484C-498E-A41E-11CFECA1A6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPower", "MathPower\MathPower.csproj", "{A2CA1C11-822A-48F5-BFD3-D3A61B42D8E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathPower", "MathPower\MathPower.csproj", "{A2CA1C11-822A-48F5-BFD3-D3A61B42D8E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterofTwoValues", "GreaterofTwoValues\GreaterofTwoValues.csproj", "{AE83B711-810B-47B7-A572-20ECC29F8B0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreaterofTwoValues", "GreaterofTwoValues\GreaterofTwoValues.csproj", "{AE83B711-810B-47B7-A572-20ECC29F8B0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensbyOdds", "MultiplyEvensbyOdds\MultiplyEvensbyOdds.csproj", "{BEF5A870-4C23-4182-91A5-1182EA34F03B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplyEvensbyOdds", "MultiplyEvensbyOdds\MultiplyEvensbyOdds.csproj", "{BEF5A870-4C23-4182-91A5-1182EA34F03B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathoperations", "Mathoperations\Mathoperations.csproj", "{8479ECF1-C76B-4A02-9CF4-C747139AA054}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{BEF5A870-4C23-4182-91A5-1182EA34F03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF5A870-4C23-4182-91A5-1182EA34F03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF5A870-4C23-4182-91A5-1182EA34F03B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8479ECF1-C76B-4A02-9CF4-C747139AA054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8479ECF1-C76B-4A02-9CF4-C747139AA054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8479ECF1-C76B-4A02-9CF4-C747139AA054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8479ECF1-C76B-4A02-9CF4-C747139AA054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

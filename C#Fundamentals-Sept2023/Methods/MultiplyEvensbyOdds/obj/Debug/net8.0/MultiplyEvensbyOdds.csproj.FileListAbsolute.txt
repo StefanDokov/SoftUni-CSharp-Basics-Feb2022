@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\bin\Debug\net8.0\MultiplyEvensbyOdds.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\bin\Debug\net8.0\MultiplyEvensbyOdds.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\bin\Debug\net8.0\MultiplyEvensbyOdds.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\bin\Debug\net8.0\MultiplyEvensbyOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\bin\Debug\net8.0\MultiplyEvensbyOdds.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\refint\MultiplyEvensbyOdds.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\MultiplyEvensbyOdds.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\MultiplyEvensbyOdds\obj\Debug\net8.0\ref\MultiplyEvensbyOdds.dll

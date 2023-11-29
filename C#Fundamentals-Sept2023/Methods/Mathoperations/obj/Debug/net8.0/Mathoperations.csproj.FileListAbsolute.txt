@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\bin\Debug\net8.0\Mathoperations.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\bin\Debug\net8.0\Mathoperations.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\bin\Debug\net8.0\Mathoperations.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\bin\Debug\net8.0\Mathoperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\bin\Debug\net8.0\Mathoperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\refint\Mathoperations.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\Mathoperations.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Methods\Mathoperations\obj\Debug\net8.0\ref\Mathoperations.dll
