@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\bin\Debug\net8.0\CharactersinRange.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\bin\Debug\net8.0\CharactersinRange.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\bin\Debug\net8.0\CharactersinRange.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\bin\Debug\net8.0\CharactersinRange.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\bin\Debug\net8.0\CharactersinRange.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\refint\CharactersinRange.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\CharactersinRange.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\CharactersinRange\obj\Debug\net8.0\ref\CharactersinRange.dll

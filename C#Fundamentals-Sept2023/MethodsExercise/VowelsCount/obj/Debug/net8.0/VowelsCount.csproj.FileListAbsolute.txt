@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\bin\Debug\net8.0\VowelsCount.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\bin\Debug\net8.0\VowelsCount.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\bin\Debug\net8.0\VowelsCount.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\bin\Debug\net8.0\VowelsCount.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\bin\Debug\net8.0\VowelsCount.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\refint\VowelsCount.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\VowelsCount.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\VowelsCount\obj\Debug\net8.0\ref\VowelsCount.dll

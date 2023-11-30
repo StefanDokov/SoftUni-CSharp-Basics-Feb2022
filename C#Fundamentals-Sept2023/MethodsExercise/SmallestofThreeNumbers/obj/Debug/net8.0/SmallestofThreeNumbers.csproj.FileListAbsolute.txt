@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\refint\SmallestofThreeNumbers.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\SmallestofThreeNumbers\obj\Debug\net8.0\ref\SmallestofThreeNumbers.dll
