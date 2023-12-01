@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\bin\Debug\net8.0\NxNMatrix.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\refint\NxNMatrix.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\NxNMatrix.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\NxNMatrix\obj\Debug\net8.0\ref\NxNMatrix.dll

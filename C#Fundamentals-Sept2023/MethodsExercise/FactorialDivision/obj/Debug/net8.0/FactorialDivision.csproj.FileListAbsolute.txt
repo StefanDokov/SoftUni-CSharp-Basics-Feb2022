@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\bin\Debug\net8.0\FactorialDivision.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\refint\FactorialDivision.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\FactorialDivision.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\FactorialDivision\obj\Debug\net8.0\ref\FactorialDivision.dll

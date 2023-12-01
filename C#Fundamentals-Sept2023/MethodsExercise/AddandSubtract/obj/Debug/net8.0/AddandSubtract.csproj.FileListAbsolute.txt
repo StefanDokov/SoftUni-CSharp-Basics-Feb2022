@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\bin\Debug\net8.0\AddandSubtract.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\bin\Debug\net8.0\AddandSubtract.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\bin\Debug\net8.0\AddandSubtract.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\bin\Debug\net8.0\AddandSubtract.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\bin\Debug\net8.0\AddandSubtract.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\refint\AddandSubtract.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\AddandSubtract.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\AddandSubtract\obj\Debug\net8.0\ref\AddandSubtract.dll
