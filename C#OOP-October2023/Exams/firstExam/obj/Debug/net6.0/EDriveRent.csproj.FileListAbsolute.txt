@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\bin\Debug\net6.0\EDriveRent.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\bin\Debug\net6.0\EDriveRent.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\bin\Debug\net6.0\EDriveRent.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\bin\Debug\net6.0\EDriveRent.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\refint\EDriveRent.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\firstExam\obj\Debug\net6.0\ref\EDriveRent.dll
