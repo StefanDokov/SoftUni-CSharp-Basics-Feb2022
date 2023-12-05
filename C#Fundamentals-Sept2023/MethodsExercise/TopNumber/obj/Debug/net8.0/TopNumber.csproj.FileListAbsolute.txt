@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\bin\Debug\net8.0\TopNumber.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\bin\Debug\net8.0\TopNumber.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\bin\Debug\net8.0\TopNumber.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\bin\Debug\net8.0\TopNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\bin\Debug\net8.0\TopNumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\refint\TopNumber.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\TopNumber.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\MethodsExercise\TopNumber\obj\Debug\net8.0\ref\TopNumber.dll
