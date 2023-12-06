@@ -132,7 +132,8 @@ namespace EDriveRent.Models
         public override string ToString()
         {
             string status = IsDamaged ? "damaged" : "OK";
-            return $"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: {status}";
+            return $"{Brand} {Model} License plate: {LicensePlateNumber} Battery: {BatteryLevel}% Status: {status}";
+
         }
     }
 }

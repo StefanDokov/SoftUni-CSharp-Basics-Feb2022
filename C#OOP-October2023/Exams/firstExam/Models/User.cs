@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EDriveRent.Models
 {
-    public abstract class User : IUser
+    public class User : IUser
     {
 
         public User(string firstName, string lastName, string drivingLicenseNumber)
@@ -126,7 +126,8 @@ namespace EDriveRent.Models
 
         public override string ToString()
         {
-            return $"{FirstName} {LastName} Driving license: {DrivingLicenseNumber} Rating: {Rating}";;
+            return $"{FirstName} {LastName} Driving license: {DrivingLicenseNumber} Rating: {Rating}";
+;
         }
     }
 }

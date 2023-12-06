@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EDriveRent.Models
 {
-    public abstract class Route : IRoute
+    public class Route : IRoute
     {
         public Route(string startPoint, string endPoint, double length, int routeId)
         {
