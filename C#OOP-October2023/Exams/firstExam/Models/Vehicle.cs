@@ -102,7 +102,7 @@ namespace EDriveRent.Models
             {
                 return isDamaged;
             }
-            private set
+            protected set
             {
                 isDamaged = value;
             }
@@ -116,7 +116,7 @@ namespace EDriveRent.Models
 
         public void Drive(double mileage)
         {
-            double cost = Math.Round((MaxMileage / mileage));
+            double cost = Math.Round((mileage / maxMileage) * 100);
             if (this.GetType().Name == nameof(CargoVan))
             {
                 cost += 5;
