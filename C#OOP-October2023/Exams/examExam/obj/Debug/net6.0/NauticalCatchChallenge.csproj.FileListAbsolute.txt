@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\bin\Debug\net6.0\NauticalCatchChallenge.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\bin\Debug\net6.0\NauticalCatchChallenge.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\bin\Debug\net6.0\NauticalCatchChallenge.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\bin\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\bin\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\refint\NauticalCatchChallenge.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\NauticalCatchChallenge.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#OOP-October2023\Exams\examExam\obj\Debug\net6.0\ref\NauticalCatchChallenge.dll
