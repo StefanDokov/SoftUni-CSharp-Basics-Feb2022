@@ -10,29 +10,29 @@ namespace RobotService.Repositories
 {
     public class RobotRepository : IRepository<IRobot>
     {
-        private List<IRobot> robots;
+        private List<IRobot> robotes;
         public RobotRepository() 
         {
-            robots = new List<IRobot>();
+            robotes = new List<IRobot>();
         }
         public void AddNew(IRobot model)
         {
-            robots.Add(model);
+            robotes.Add(model);
         }
 
         public IRobot FindByStandard(int interfaceStandard)
         {
-            return robots.FirstOrDefault(r => r.InterfaceStandards.Any(s => s == interfaceStandard));
+            return robotes.FirstOrDefault(r => r.InterfaceStandards.Any(s => s == interfaceStandard));
         }
 
         public IReadOnlyCollection<IRobot> Models()
         {
-            return robots.AsReadOnly();
+            return robotes.AsReadOnly();
         }
 
         public bool RemoveByName(string typeName)
         {
-            return robots.Remove(robots.FirstOrDefault(r => r.Model == typeName));
+            return robotes.Remove(robotes.FirstOrDefault(r => r.Model == typeName));
         }
     }
 }
