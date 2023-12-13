@@ -84,7 +84,20 @@ namespace RobotService.Core
 
         public string UpgradeRobot(string model, string supplementTypeName)
         {
-            throw new NotImplementedException();
+            ISupplement supplementa = supplements.Models().FirstOrDefault(m => m.GetType().Name == supplementTypeName);
+            List<IRobot> roboti = robots.Models().Where(r => r.Model == model).ToList();
+            List<IRobot> robotiFiltered = roboti.Where(r => r.InterfaceStandards.All(s => s != supplementa.InterfaceStandard)).ToList();
+            IRobot robotToUpgrade = robotiFiltered.FirstOrDefault();
+
+            if (robotToUpgrade == null)
+            {
+                return string.Format(OutputMessages.AllModelsUpgraded, model);
+            }
+
+            robotToUpgrade.InstallSupplement(supplementa);
+            supplements.RemoveByName(supplementTypeName);
+
+            return string.Format(OutputMessages.UpgradeSuccessful, model, supplementTypeName);
         }
     }
 }
