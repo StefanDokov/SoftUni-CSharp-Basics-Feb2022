@@ -69,7 +69,41 @@ namespace RobotService.Core
 
         public string PerformService(string serviceName, int intefaceStandard, int totalPowerNeeded)
         {
-            throw new NotImplementedException();
+            List<IRobot> selectedRobots = robots.Models().Where(r => r.InterfaceStandards.Any(i => i == intefaceStandard)).OrderByDescending(y => y.BatteryLevel).ToList();
+
+            if (selectedRobots.Count() == 0)
+            {
+                return string.Format(OutputMessages.UnableToPerform, intefaceStandard);
+            }
+
+            int powerSum = selectedRobots.Sum(r => r.BatteryLevel);
+
+            if (powerSum < totalPowerNeeded)
+            {
+                return string.Format(OutputMessages.MorePowerNeeded, serviceName, totalPowerNeeded - powerSum);
+            }
+
+            int usedRobotsCount = 0;
+
+            foreach (IRobot robot in selectedRobots)
+            {
+                usedRobotsCount++;
+
+                if (totalPowerNeeded <= robot.BatteryLevel)
+                {
+                    robot.ExecuteService(totalPowerNeeded);
+                    break;
+                }
+                else
+                {
+                    totalPowerNeeded -= robot.BatteryLevel;
+                    robot.ExecuteService(robot.BatteryLevel);
+                }
+
+            }
+
+            return string.Format(OutputMessages.PerformedSuccessfully, serviceName, usedRobotsCount);
+
         }
 
         public string Report()
