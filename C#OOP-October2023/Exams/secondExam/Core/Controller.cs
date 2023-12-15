@@ -113,7 +113,16 @@ namespace RobotService.Core
 
         public string RobotRecovery(string model, int minutes)
         {
-            throw new NotImplementedException();
+            List<IRobot> selectedRobots = robots.Models().Where(r =>  r.Model == model && r.BatteryLevel * 2 < r.BatteryCapacity).ToList();
+            int robotsFed = 0;
+
+            foreach (IRobot robot in selectedRobots)
+            {
+                robot.Eating(minutes);
+                robotsFed++;
+            }
+
+            return string.Format(OutputMessages.RobotsFed, robotsFed);
         }
 
         public string UpgradeRobot(string model, string supplementTypeName)
