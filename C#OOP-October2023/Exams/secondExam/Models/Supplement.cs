@@ -1,37 +1,27 @@
-﻿using RobotService.Models.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace RobotService.Models
+﻿namespace RobotService.Models
 {
+    using RobotService.Models.Contracts;
     public abstract class Supplement : ISupplement
     {
+        private int interfaceStandard;
+        private int batteryUsage;
+
         public Supplement(int interfaceStandard, int batteryUsage)
         {
             InterfaceStandard = interfaceStandard;
             BatteryUsage = batteryUsage;
-
         }
-
-        private int interfaceStandard;
 
         public int InterfaceStandard
         {
-            get { return interfaceStandard; }
-            private set { interfaceStandard = value; }
+            get => interfaceStandard;
+            private set => interfaceStandard = value;
         }
-
-        private int batteryUsage;
 
         public int BatteryUsage
         {
-            get { return interfaceStandard; }
-            private set { interfaceStandard = value; }
+            get => batteryUsage;
+            private set => batteryUsage = value;
         }
     }
 }
-
-

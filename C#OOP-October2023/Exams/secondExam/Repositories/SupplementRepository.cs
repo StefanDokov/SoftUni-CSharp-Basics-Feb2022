@@ -4,35 +4,23 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace RobotService.Repositories
 {
     public class SupplementRepository : IRepository<ISupplement>
     {
-        private List<ISupplement> supplements;
-        public SupplementRepository() 
-        {
-            supplements = new List<ISupplement>();
-        }
-        public void AddNew(ISupplement model)
-        {
-            supplements.Add(model);
-        }
+        private readonly List<ISupplement> supplements;
 
-        public ISupplement FindByStandard(int interfaceStandard)
+        public SupplementRepository()
         {
-            return supplements.FirstOrDefault(s => s.InterfaceStandard == interfaceStandard);
+            this.supplements = new List<ISupplement>();
         }
+        public void AddNew(ISupplement model) => this.supplements.Add(model);
 
-        public IReadOnlyCollection<ISupplement> Models()
-        {
-            return supplements.AsReadOnly();
-        }
+        public ISupplement FindByStandard(int interfaceStandard) => this.supplements.FirstOrDefault(x => x.InterfaceStandard == interfaceStandard);
 
-        public bool RemoveByName(string typeName)
-        {
-            return supplements.Remove(supplements.FirstOrDefault(s => s.GetType().Name == typeName));
-        }
+        public IReadOnlyCollection<ISupplement> Models() => this.supplements.AsReadOnly();
+
+        public bool RemoveByName(string typeName) => this.supplements.Remove(this.supplements.FirstOrDefault(x => x.GetType().Name == typeName));
     }
 }

@@ -1,123 +1,110 @@
 ﻿using RobotService.Models.Contracts;
+using RobotService.Utilities.Messages;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace RobotService.Models
 {
     public abstract class Robot : IRobot
     {
+        private string model;
+        private int batteryCapacity;
+        private int batteryLevel;
+        private int convertionCapacityIndex;
+        private List<int> interfaceStandards;
+
         public Robot(string model, int batteryCapacity, int convertionCapacityIndex)
         {
-            if (string.IsNullOrWhiteSpace(model))
-            {
-                throw new ArgumentException("Model cannot be null or empty.");
-            }
-            if (batteryCapacity < 0)
-            {
-                throw new ArgumentException("Battery capacity cannot drop below zero.");
-            }
             Model = model;
             BatteryCapacity = batteryCapacity;
-            BatteryLevel = BatteryCapacity;
-            ConvertionCapacityIndex = convertionCapacityIndex;
-            
+            this.batteryLevel = batteryCapacity;
+            this.convertionCapacityIndex = convertionCapacityIndex;
+            this.interfaceStandards = new List<int>();
         }
 
-        public string model;
         public string Model
         {
-            get { return model; }
-            private set { model = value; }
+            get => model;
+            private set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(string.Format(ExceptionMessages.ModelNullOrWhitespace));
+                }
+                model = value;
+            }
         }
 
-        public int batteryCapacity;
         public int BatteryCapacity
         {
-            get { return batteryCapacity; }
-            private set { batteryCapacity = value; }
-        }
-
-        
-        public int batteryLevel;
-        public int BatteryLevel
-        {
-            get { return batteryLevel; }
-            private set { batteryLevel = value; }
-        }
-
-
-
-        public int convertionCapacityIndex;
-        public int ConvertionCapacityIndex
-        {
-            get { return convertionCapacityIndex; }
-            private set { convertionCapacityIndex = value; }
-        }
-        public IReadOnlyCollection<int> InterfaceStandards { get; private set; } = new List<int>();
-
-        public void Eating(int minutes)
-        {
-            int energyProduced = ConvertionCapacityIndex * minutes;
-
-            BatteryLevel += energyProduced;
-
-            if (BatteryLevel >= BatteryCapacity)
+            get => batteryCapacity;
+            private set
             {
-                BatteryLevel = BatteryCapacity;
-
+                if (value < 0)
+                {
+                    throw new ArgumentException(string.Format(ExceptionMessages.BatteryCapacityBelowZero));
+                }
+                batteryCapacity = value;
             }
-            
+        }
+
+        public int BatteryLevel => this.batteryLevel;
+
+        public int ConvertionCapacityIndex => this.convertionCapacityIndex;
+
+        public IReadOnlyCollection<int> InterfaceStandards => this.interfaceStandards;
+
+        public virtual void Eating(int minutes)
+        {
+            int totalCapacity = convertionCapacityIndex * minutes;
+
+            if (totalCapacity > BatteryCapacity - BatteryLevel)
+            {
+                batteryLevel = batteryCapacity;
+            }
+            else
+            {
+                batteryLevel += totalCapacity;
+            }
         }
 
         public bool ExecuteService(int consumedEnergy)
         {
-            if (BatteryLevel >= consumedEnergy)
+            if (consumedEnergy <= this.batteryLevel)
             {
-                BatteryLevel -= consumedEnergy;
-
-                BatteryLevel = Math.Max(0, BatteryLevel);
-
+                this.batteryLevel -= consumedEnergy;
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public void InstallSupplement(ISupplement supplement)
         {
-            InterfaceStandards = new List<int>(InterfaceStandards) {supplement.InterfaceStandard };
-
-            BatteryCapacity -= supplement.BatteryUsage;
-
-            BatteryLevel -= supplement.BatteryUsage;
-
-            BatteryCapacity = Math.Max(0, BatteryCapacity);
-            BatteryLevel = Math.Max(0, BatteryLevel);
+            this.BatteryCapacity -= supplement.BatteryUsage;
+            this.batteryLevel -= supplement.BatteryUsage;
+            this.interfaceStandards.Add(supplement.InterfaceStandard);
         }
 
         public override string ToString()
         {
-            StringBuilder stringBuilder = new StringBuilder();
-        stringBuilder.AppendLine($"{GetType().Name} {Model}:");
-        stringBuilder.AppendLine($"--Maximum battery capacity: {BatteryCapacity}");
-        stringBuilder.AppendLine($"--Current battery level: {BatteryLevel}");
+            StringBuilder sb = new StringBuilder();
 
-        if (InterfaceStandards.Count > 0)
-        {
-            stringBuilder.Append("--Supplements installed: ");
-            stringBuilder.Append(string.Join(" ", InterfaceStandards));
-        }
-        else
-        {
-            stringBuilder.Append("--Supplements installed: none");
-        }
+            sb.AppendLine($"{this.GetType().Name} {this.Model}:");
+            sb.AppendLine($"--Maximum battery capacity: {this.BatteryCapacity}");
+            sb.AppendLine($"--Current battery level: {this.BatteryLevel}");
+            sb.Append($"--Supplements installed: ");
 
-        return stringBuilder.ToString();
+            if (this.InterfaceStandards.Count == 0)
+            {
+                sb.Append("none");
+            }
+            else
+            {
+                sb.Append(string.Join(" ", this.InterfaceStandards));
+            }
+
+            return sb.ToString().TrimEnd();
         }
     }
 }
