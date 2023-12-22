@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\bin\Debug\net8.0\ListofProducts.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\bin\Debug\net8.0\ListofProducts.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\bin\Debug\net8.0\ListofProducts.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\bin\Debug\net8.0\ListofProducts.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\bin\Debug\net8.0\ListofProducts.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\refint\ListofProducts.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ListofProducts.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\ListofProducts\obj\Debug\net8.0\ref\ListofProducts.dll

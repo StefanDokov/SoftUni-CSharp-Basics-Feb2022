@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\bin\Debug\net8.0\RemoveNegativesandReverse.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\bin\Debug\net8.0\RemoveNegativesandReverse.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\bin\Debug\net8.0\RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\bin\Debug\net8.0\RemoveNegativesandReverse.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\bin\Debug\net8.0\RemoveNegativesandReverse.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\refint\RemoveNegativesandReverse.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\RemoveNegativesandReverse.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\Lists\RemoveNegativesandReverse\obj\Debug\net8.0\ref\RemoveNegativesandReverse.dll
