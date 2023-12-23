@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GaussTrick", "GaussTrick\Ga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergingLists", "MergingLists\MergingLists.csproj", "{34FD0E7E-971D-41C9-B6DA-F48DCB9D91C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListofProducts", "ListofProducts\ListofProducts.csproj", "{54BAC012-52A5-4D5A-B17A-6EA2DDA827E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListofProducts", "ListofProducts\ListofProducts.csproj", "{54BAC012-52A5-4D5A-B17A-6EA2DDA827E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNegativesandReverse", "RemoveNegativesandReverse\RemoveNegativesandReverse.csproj", "{9D7DE6E4-5973-493B-948A-1CCDE90E8CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNegativesandReverse", "RemoveNegativesandReverse\RemoveNegativesandReverse.csproj", "{9D7DE6E4-5973-493B-948A-1CCDE90E8CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulationBasics", "ListManipulationBasics\ListManipulationBasics.csproj", "{89041D3E-43CC-4529-9B30-594C95525941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulationBasics", "ListManipulationBasics\ListManipulationBasics.csproj", "{89041D3E-43CC-4529-9B30-594C95525941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulationAdvanced", "ListManipulationAdvanced\ListManipulationAdvanced.csproj", "{4029C06E-44F0-4B85-AE71-360F3DA86828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{89041D3E-43CC-4529-9B30-594C95525941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89041D3E-43CC-4529-9B30-594C95525941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89041D3E-43CC-4529-9B30-594C95525941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4029C06E-44F0-4B85-AE71-360F3DA86828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4029C06E-44F0-4B85-AE71-360F3DA86828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4029C06E-44F0-4B85-AE71-360F3DA86828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4029C06E-44F0-4B85-AE71-360F3DA86828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
