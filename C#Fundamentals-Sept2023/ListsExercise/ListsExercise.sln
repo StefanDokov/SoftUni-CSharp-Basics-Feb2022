@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BombNumbers", "BombNumbers\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardsGame", "CardsGame\CardsGame.csproj", "{16F95B3D-E8CE-4F57-99B1-388550F62D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{821B41C3-040D-4C3E-B87B-904B5D06AECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendArrays", "AppendArrays\AppendArrays.csproj", "{821B41C3-040D-4C3E-B87B-904B5D06AECB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousThreat", "AnonymousThreat\AnonymousThreat.csproj", "{2583E6D2-42E2-43FD-8CF2-C55549FD8D0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousThreat", "AnonymousThreat\AnonymousThreat.csproj", "{2583E6D2-42E2-43FD-8CF2-C55549FD8D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonDontGo", "PokemonDontGo\PokemonDontGo.csproj", "{22AE652F-9824-4F0D-BA49-613DD7A47301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniCoursePlanning", "SoftUniCoursePlanning\SoftUniCoursePlanning.csproj", "{14AA5C37-416C-4025-B6CB-B967536CA5A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{2583E6D2-42E2-43FD-8CF2-C55549FD8D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2583E6D2-42E2-43FD-8CF2-C55549FD8D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2583E6D2-42E2-43FD-8CF2-C55549FD8D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AE652F-9824-4F0D-BA49-613DD7A47301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AE652F-9824-4F0D-BA49-613DD7A47301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AE652F-9824-4F0D-BA49-613DD7A47301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AE652F-9824-4F0D-BA49-613DD7A47301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AA5C37-416C-4025-B6CB-B967536CA5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AA5C37-416C-4025-B6CB-B967536CA5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AA5C37-416C-4025-B6CB-B967536CA5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AA5C37-416C-4025-B6CB-B967536CA5A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
