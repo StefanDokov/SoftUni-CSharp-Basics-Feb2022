@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles", "Articles\Articl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Articles2", "Articles2\Articles2.csproj", "{AFE9D3BF-C205-4B5B-A13A-336D6B0238E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{CB53FCDC-D995-40FA-B204-30DBA9EE33C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{CB53FCDC-D995-40FA-B204-30DBA9EE33C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{BD202078-FC8D-4A26-BF36-0CA481F4B1C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{BD202078-FC8D-4A26-BF36-0CA481F4B1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{01A1B6D0-3201-403F-A9FB-A0C9DDEDCCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderbyAge", "OrderbyAge\OrderbyAge.csproj", "{D080CC57-45A6-4EC2-8904-DB4419F33520}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BD202078-FC8D-4A26-BF36-0CA481F4B1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD202078-FC8D-4A26-BF36-0CA481F4B1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD202078-FC8D-4A26-BF36-0CA481F4B1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A1B6D0-3201-403F-A9FB-A0C9DDEDCCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A1B6D0-3201-403F-A9FB-A0C9DDEDCCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A1B6D0-3201-403F-A9FB-A0C9DDEDCCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A1B6D0-3201-403F-A9FB-A0C9DDEDCCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D080CC57-45A6-4EC2-8904-DB4419F33520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D080CC57-45A6-4EC2-8904-DB4419F33520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D080CC57-45A6-4EC2-8904-DB4419F33520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D080CC57-45A6-4EC2-8904-DB4419F33520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
