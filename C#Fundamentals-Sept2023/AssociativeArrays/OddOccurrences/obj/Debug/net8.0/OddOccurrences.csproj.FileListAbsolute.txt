@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\bin\Debug\net8.0\OddOccurrences.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\bin\Debug\net8.0\OddOccurrences.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\bin\Debug\net8.0\OddOccurrences.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\bin\Debug\net8.0\OddOccurrences.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\bin\Debug\net8.0\OddOccurrences.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\refint\OddOccurrences.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\OddOccurrences.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArrays\OddOccurrences\obj\Debug\net8.0\ref\OddOccurrences.dll
