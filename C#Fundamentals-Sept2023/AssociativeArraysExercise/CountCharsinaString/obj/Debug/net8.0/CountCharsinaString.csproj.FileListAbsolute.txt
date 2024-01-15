@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\bin\Debug\net8.0\CountCharsinaString.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\bin\Debug\net8.0\CountCharsinaString.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\bin\Debug\net8.0\CountCharsinaString.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\bin\Debug\net8.0\CountCharsinaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\bin\Debug\net8.0\CountCharsinaString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\refint\CountCharsinaString.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\CountCharsinaString.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\CountCharsinaString\obj\Debug\net8.0\ref\CountCharsinaString.dll

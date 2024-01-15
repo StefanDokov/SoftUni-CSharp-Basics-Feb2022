@@ -1,0 +1,14 @@
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\bin\Debug\net8.0\StudentAcademy.exe
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\bin\Debug\net8.0\StudentAcademy.deps.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\bin\Debug\net8.0\StudentAcademy.runtimeconfig.json
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\bin\Debug\net8.0\StudentAcademy.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\bin\Debug\net8.0\StudentAcademy.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.AssemblyInfo.cs
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\refint\StudentAcademy.dll
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.pdb
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\StudentAcademy.genruntimeconfig.cache
+C:\Users\apeNPC\Desktop\GitHubPower\C#Fundamentals-Sept2023\AssociativeArraysExercise\StudentAcademy\obj\Debug\net8.0\ref\StudentAcademy.dll
