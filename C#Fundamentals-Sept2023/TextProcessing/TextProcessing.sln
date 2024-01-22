@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStrings", "ReverseSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatStrings", "RepeatStrings\RepeatStrings.csproj", "{00C7EC59-2FFA-4E38-83FB-38CDB544E865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substring", "Substring\Substring.csproj", "{DBC8BFCA-D461-4675-B708-A07EE57ABCAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substring", "Substring\Substring.csproj", "{DBC8BFCA-D461-4675-B708-A07EE57ABCAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilter", "TextFilter\TextFilter.csproj", "{7ABFD3C7-0379-43D8-A5A0-D791C7F34EBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFilter", "TextFilter\TextFilter.csproj", "{7ABFD3C7-0379-43D8-A5A0-D791C7F34EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsLettersandOther", "DigitsLettersandOther\DigitsLettersandOther.csproj", "{63BA5CAE-339C-4F1D-BEC3-1F9A20F2D915}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7ABFD3C7-0379-43D8-A5A0-D791C7F34EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ABFD3C7-0379-43D8-A5A0-D791C7F34EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ABFD3C7-0379-43D8-A5A0-D791C7F34EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BA5CAE-339C-4F1D-BEC3-1F9A20F2D915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA5CAE-339C-4F1D-BEC3-1F9A20F2D915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA5CAE-339C-4F1D-BEC3-1F9A20F2D915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA5CAE-339C-4F1D-BEC3-1F9A20F2D915}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
